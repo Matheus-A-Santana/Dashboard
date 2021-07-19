@@ -1,0 +1,16 @@
+D:\Repositório GIT\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+D:\Repositório GIT\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+D:\Repositório GIT\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+D:\Repositório GIT\Dashboard\Dashboard\obj\Debug\Dashboard._1___Forms.FrmCashEntry.resources
+D:\Repositório GIT\Dashboard\Dashboard\obj\Debug\Dashboard._1___Forms.FrmCashOut.resources
+D:\Repositório GIT\Dashboard\Dashboard\obj\Debug\Dashboard._1___Forms.FrmHome.resources
+D:\Repositório GIT\Dashboard\Dashboard\obj\Debug\Dashboard._1___Forms.FrmMonthly.resources
+D:\Repositório GIT\Dashboard\Dashboard\obj\Debug\Dashboard.Dashboard.resources
+D:\Repositório GIT\Dashboard\Dashboard\obj\Debug\Dashboard._1___Forms.FrmWeekly.resources
+D:\Repositório GIT\Dashboard\Dashboard\obj\Debug\Dashboard._1___Forms.FrmYearly.resources
+D:\Repositório GIT\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+D:\Repositório GIT\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+D:\Repositório GIT\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+D:\Repositório GIT\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+D:\Repositório GIT\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
+D:\Repositório GIT\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.AssemblyReference.cache
