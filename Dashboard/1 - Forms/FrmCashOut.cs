@@ -16,7 +16,7 @@ namespace Dashboard._1___Forms
         public FrmCashOut()
         {
             InitializeComponent();
-            TxtType.Focus();
+            TxtType.Select();
         }
 
         // Para deixar o cantos arredondados

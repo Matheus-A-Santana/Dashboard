@@ -19,6 +19,7 @@ namespace Dashboard
             InitializeComponent();
             CustomizeMenu();
             ShowFormPanel(new _1___Forms.FrmHome());
+            BtnReport.Enabled = false;
         }
 
         #region Código para a borda do form redimensionavel

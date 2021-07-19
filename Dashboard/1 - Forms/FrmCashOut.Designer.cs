@@ -82,6 +82,7 @@ namespace Dashboard._1___Forms
             // 
             // BtnOut
             // 
+            this.BtnOut.Cursor = System.Windows.Forms.Cursors.Hand;
             this.BtnOut.FlatAppearance.BorderSize = 0;
             this.BtnOut.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Salmon;
             this.BtnOut.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -136,8 +137,12 @@ namespace Dashboard._1___Forms
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "FrmCashOut";
             this.Opacity = 0.95D;
+            this.ShowIcon = false;
+            this.ShowInTaskbar = false;
             this.Text = "FrmCashOut";
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.FrmCashOut_KeyDown);
             this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.FrmCashOut_MouseDown);

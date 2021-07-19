@@ -32,6 +32,7 @@ namespace Dashboard._1___Forms
             this.components = new System.ComponentModel.Container();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.LblTimer = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
             this.tableLayoutPanel3 = new System.Windows.Forms.TableLayoutPanel();
@@ -54,7 +55,6 @@ namespace Dashboard._1___Forms
             this.BtnAddbanco = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.label8 = new System.Windows.Forms.Label();
-            this.LblTimer = new System.Windows.Forms.Label();
             this.TimerDay = new System.Windows.Forms.Timer(this.components);
             this.tableLayoutPanel1.SuspendLayout();
             this.panel1.SuspendLayout();
@@ -95,6 +95,17 @@ namespace Dashboard._1___Forms
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(790, 41);
             this.panel1.TabIndex = 0;
+            // 
+            // LblTimer
+            // 
+            this.LblTimer.AutoSize = true;
+            this.LblTimer.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.LblTimer.ForeColor = System.Drawing.Color.White;
+            this.LblTimer.Location = new System.Drawing.Point(3, 2);
+            this.LblTimer.Name = "LblTimer";
+            this.LblTimer.Size = new System.Drawing.Size(47, 17);
+            this.LblTimer.TabIndex = 1;
+            this.LblTimer.Text = "label9";
             // 
             // label1
             // 
@@ -319,6 +330,7 @@ namespace Dashboard._1___Forms
             // vScrollBar1
             // 
             this.vScrollBar1.Dock = System.Windows.Forms.DockStyle.Right;
+            this.vScrollBar1.LargeChange = 50;
             this.vScrollBar1.Location = new System.Drawing.Point(761, 0);
             this.vScrollBar1.Name = "vScrollBar1";
             this.vScrollBar1.Size = new System.Drawing.Size(17, 410);
@@ -385,17 +397,6 @@ namespace Dashboard._1___Forms
             this.label8.Size = new System.Drawing.Size(187, 13);
             this.label8.TabIndex = 3;
             this.label8.Text = "função de bancos a ser implementado";
-            // 
-            // LblTimer
-            // 
-            this.LblTimer.AutoSize = true;
-            this.LblTimer.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.LblTimer.ForeColor = System.Drawing.Color.White;
-            this.LblTimer.Location = new System.Drawing.Point(3, 2);
-            this.LblTimer.Name = "LblTimer";
-            this.LblTimer.Size = new System.Drawing.Size(47, 17);
-            this.LblTimer.TabIndex = 1;
-            this.LblTimer.Text = "label9";
             // 
             // TimerDay
             // 

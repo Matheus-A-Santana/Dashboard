@@ -17,7 +17,8 @@ namespace Dashboard._1___Forms
         {
             InitializeComponent();
             this.Enabled = true;
-            LblTimer.Text = DateTime.Now.ToString();
+            BtnAddbanco.Enabled = false;
+            button2.Enabled = false;
         }
 
         // Código para deixar o botão de lançamento e saida redondo, e códgos para arredondar os cantos do panel
@@ -53,14 +54,14 @@ namespace Dashboard._1___Forms
         private void BtnEntry_Click(object sender, EventArgs e)
         {
             FrmCashEntry frm = new FrmCashEntry();
-            frm.Show();
+            frm.ShowDialog();
         }
 
         //Ação do botão menos
         private void BtnOut_Click(object sender, EventArgs e)
         {
             FrmCashOut frm = new FrmCashOut();
-            frm.Show();
+            frm.ShowDialog();
         }
 
         private void TimerDay_Tick(object sender, EventArgs e)

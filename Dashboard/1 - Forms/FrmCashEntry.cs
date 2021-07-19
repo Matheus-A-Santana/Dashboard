@@ -17,6 +17,7 @@ namespace Dashboard._1___Forms
         public FrmCashEntry()
         {
             InitializeComponent();
+            TxtType.Select();
         }
 
         //Código para deixar o form com os cantos arredondados
