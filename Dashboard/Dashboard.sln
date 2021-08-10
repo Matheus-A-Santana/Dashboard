@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "..\Business\Bus
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "..\DataBase\DataBase\DataBase.csproj", "{1E94B929-D7D1-4EE2-BDE8-53E77F1F7CE7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Transfer", "Transfer", "{84E9EA44-2BA1-4109-9A65-7B59AF44E13B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transfer", "..\Transfer\Transfer.csproj", "{1D9FF9A7-9A2D-4127-8779-5529357976D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,10 @@ Global
 		{1E94B929-D7D1-4EE2-BDE8-53E77F1F7CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E94B929-D7D1-4EE2-BDE8-53E77F1F7CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E94B929-D7D1-4EE2-BDE8-53E77F1F7CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D9FF9A7-9A2D-4127-8779-5529357976D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D9FF9A7-9A2D-4127-8779-5529357976D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D9FF9A7-9A2D-4127-8779-5529357976D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D9FF9A7-9A2D-4127-8779-5529357976D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +49,7 @@ Global
 		{99F6FE94-09B3-4DCF-8B4A-DD441781CB15} = {0C0FDB64-BB7F-47F9-A805-9D9A02229DE5}
 		{2ADD250C-23BB-49F4-A3EC-10F08DF96D86} = {EB910C8D-9C6E-4CF5-8EDE-7972D9B9870D}
 		{1E94B929-D7D1-4EE2-BDE8-53E77F1F7CE7} = {F86F97FC-1CFC-47F3-859F-31A52DBF697E}
+		{1D9FF9A7-9A2D-4127-8779-5529357976D9} = {84E9EA44-2BA1-4109-9A65-7B59AF44E13B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C1A31D4B-B15A-426F-9506-6279587DC066}
