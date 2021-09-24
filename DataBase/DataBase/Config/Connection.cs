@@ -6,24 +6,32 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataBase.Config
+namespace DataBase
 {
-    class Connection
+    public class Connection
     {
         SqlConnection con = new SqlConnection();
 
-        private Connection()
+        //String de conexão
+        public Connection()
         {
             con.ConnectionString = ConfigurationManager.AppSettings["SqlConnection"];
         }
 
-        public SqlConnection Connecting()
+        //Conectar
+        public SqlConnection Connect()
         {
-            if(con.State == System.Data.ConnectionState.Closed)
+            if (con.State == System.Data.ConnectionState.Closed)
             {
                 con.Open();
             }
-            else if (con.State == System.Data.ConnectionState.Open)
+            return con;
+        }
+
+        //Desconectar
+        public SqlConnection Disconnect()
+        {
+            if (con.State == System.Data.ConnectionState.Open)
             {
                 con.Close();
             }

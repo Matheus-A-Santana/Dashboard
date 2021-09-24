@@ -1,0 +1,10 @@
+D:\Repositório GIT\Dashboard\Business\Business\bin\Debug\Business.dll
+D:\Repositório GIT\Dashboard\Business\Business\bin\Debug\Business.pdb
+D:\Repositório GIT\Dashboard\Business\Business\bin\Debug\DataBase.dll
+D:\Repositório GIT\Dashboard\Business\Business\bin\Debug\DataBase.pdb
+D:\Repositório GIT\Dashboard\Business\Business\bin\Debug\DataBase.dll.config
+D:\Repositório GIT\Dashboard\Business\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+D:\Repositório GIT\Dashboard\Business\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+D:\Repositório GIT\Dashboard\Business\Business\obj\Debug\Business.csproj.CopyComplete
+D:\Repositório GIT\Dashboard\Business\Business\obj\Debug\Business.dll
+D:\Repositório GIT\Dashboard\Business\Business\obj\Debug\Business.pdb

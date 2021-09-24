@@ -162,5 +162,11 @@
     <None Include="Resources\home.png" />
     <None Include="Resources\pie-chart.png" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Business\Business\Business.csproj">
+      <Project>{2add250c-23bb-49f4-a3ec-10f08df96d86}</Project>
+      <Name>Business</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

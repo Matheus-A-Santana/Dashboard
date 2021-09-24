@@ -1,0 +1,7 @@
+D:\Repositório GIT\Dashboard\DataBase\DataBase\bin\Debug\DataBase.dll.config
+D:\Repositório GIT\Dashboard\DataBase\DataBase\bin\Debug\DataBase.dll
+D:\Repositório GIT\Dashboard\DataBase\DataBase\bin\Debug\DataBase.pdb
+D:\Repositório GIT\Dashboard\DataBase\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+D:\Repositório GIT\Dashboard\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+D:\Repositório GIT\Dashboard\DataBase\DataBase\obj\Debug\DataBase.dll
+D:\Repositório GIT\Dashboard\DataBase\DataBase\obj\Debug\DataBase.pdb

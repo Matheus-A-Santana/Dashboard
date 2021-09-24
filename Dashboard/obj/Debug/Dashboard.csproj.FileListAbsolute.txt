@@ -14,3 +14,9 @@ D:\Repositório GIT\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileIn
 D:\Repositório GIT\Dashboard\Dashboard\obj\Debug\Dashboard.exe
 D:\Repositório GIT\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
 D:\Repositório GIT\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.AssemblyReference.cache
+D:\Repositório GIT\Dashboard\Dashboard\bin\Debug\Business.dll
+D:\Repositório GIT\Dashboard\Dashboard\bin\Debug\DataBase.dll
+D:\Repositório GIT\Dashboard\Dashboard\bin\Debug\Business.pdb
+D:\Repositório GIT\Dashboard\Dashboard\bin\Debug\DataBase.pdb
+D:\Repositório GIT\Dashboard\Dashboard\bin\Debug\DataBase.dll.config
+D:\Repositório GIT\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.CopyComplete
